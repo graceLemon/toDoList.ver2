@@ -17,11 +17,10 @@
 }
 
 .top-input input {
-  border: 5px solid #f78fb3;
-  border-radius: 20px;
+  border: 3px solid #f78fb3;
+  border-radius: 20px 0 0 20px;
   width: 400px;
   height: 40px;
-  margin: 5px;
   font-size: 20px;
   padding: 5px;
 }
@@ -41,7 +40,7 @@
   background-color: #f3a683;
   color: white;
   border: none;
-  border-radius: 10px;
+  border-radius: 0 20px 20px 0;
 }
 
 .top-input button:hover {
